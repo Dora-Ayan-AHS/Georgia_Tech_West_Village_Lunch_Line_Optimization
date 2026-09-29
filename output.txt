@@ -1,0 +1,8 @@
+West Village Lunch Line Simulation
+----------------------------------------
+Current Line: 7.0 minutes
+Second Station: 4.2 minutes
+Express Line: 3.5 minutes
+
+Best Option:
+Express Line (3.5 minutes)
